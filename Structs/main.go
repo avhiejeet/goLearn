@@ -15,7 +15,7 @@ type person struct {
 
 func main() {
 	abhijit := person{
-		firstName: "Abhijeet",
+		firstName: "Abhijit",
 		lastName:  "Rajbanshi",
 		contactInfo: contactInfo{
 			email:   "avhiejeet@gmail.com",
